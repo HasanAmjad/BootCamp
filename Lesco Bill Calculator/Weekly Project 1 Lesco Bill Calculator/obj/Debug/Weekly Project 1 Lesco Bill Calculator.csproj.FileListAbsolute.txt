@@ -1,0 +1,6 @@
+D:\CureMD BootCamp\Lesco Bill Calculator\Weekly Project 1 Lesco Bill Calculator\bin\Debug\Weekly Project 1 Lesco Bill Calculator.exe.config
+D:\CureMD BootCamp\Lesco Bill Calculator\Weekly Project 1 Lesco Bill Calculator\bin\Debug\Weekly Project 1 Lesco Bill Calculator.exe
+D:\CureMD BootCamp\Lesco Bill Calculator\Weekly Project 1 Lesco Bill Calculator\bin\Debug\Weekly Project 1 Lesco Bill Calculator.pdb
+D:\CureMD BootCamp\Lesco Bill Calculator\Weekly Project 1 Lesco Bill Calculator\obj\Debug\Weekly Project 1 Lesco Bill Calculator.exe
+D:\CureMD BootCamp\Lesco Bill Calculator\Weekly Project 1 Lesco Bill Calculator\obj\Debug\Weekly Project 1 Lesco Bill Calculator.pdb
+D:\CureMD BootCamp\Lesco Bill Calculator\Weekly Project 1 Lesco Bill Calculator\obj\Debug\Weekly Project 1 Lesco Bill Calculator.csprojResolveAssemblyReference.cache
