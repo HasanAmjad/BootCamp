@@ -1,0 +1,6 @@
+D:\CureMD BootCamp\Assignment 03_TechLift Candidate\Assignment 03_TechLift Candidate\bin\Debug\Assignment 03_TechLift Candidate.exe.config
+D:\CureMD BootCamp\Assignment 03_TechLift Candidate\Assignment 03_TechLift Candidate\bin\Debug\Assignment 03_TechLift Candidate.exe
+D:\CureMD BootCamp\Assignment 03_TechLift Candidate\Assignment 03_TechLift Candidate\bin\Debug\Assignment 03_TechLift Candidate.pdb
+D:\CureMD BootCamp\Assignment 03_TechLift Candidate\Assignment 03_TechLift Candidate\obj\Debug\Assignment 03_TechLift Candidate.csprojResolveAssemblyReference.cache
+D:\CureMD BootCamp\Assignment 03_TechLift Candidate\Assignment 03_TechLift Candidate\obj\Debug\Assignment 03_TechLift Candidate.exe
+D:\CureMD BootCamp\Assignment 03_TechLift Candidate\Assignment 03_TechLift Candidate\obj\Debug\Assignment 03_TechLift Candidate.pdb
